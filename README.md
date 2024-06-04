@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noureddine haithem
+- 👋 **Hi, I’m Noureddine haithem**
 - 👀 I’m interested in application mobile 
 
 <!---
